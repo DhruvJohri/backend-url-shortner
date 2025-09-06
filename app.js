@@ -16,7 +16,7 @@ dotenv.config(); // Remove argument, just use dotenv.config()
 const app = express();
 
 app.use(cors({
-    origin: 'https://frontend-url-shortner-git-main-dhruv-johris-projects.vercel.app', // Remove trailing slash
+    origin: 'https://frontend-url-shortner.vercel.app', // Remove trailing slash
     credentials: true
 }));
 
@@ -45,3 +45,4 @@ app.listen(PORT, () => {
     connectDB();
     console.log(`Server is running on port ${PORT}`);
 });
+
