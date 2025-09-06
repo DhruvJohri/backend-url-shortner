@@ -44,7 +44,7 @@ Built with **React (Vite) + Node.js + MongoDB**, because we don’t do mid tech 
 git clone https://github.com/your-username/frontend-url-shortner.git
 
 # Go to project
-cd frontend-url-shortner
+cd backend-url-shortner
 
 # Install deps
 npm install
