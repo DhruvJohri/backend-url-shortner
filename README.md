@@ -52,8 +52,6 @@ npm install
 ## project-root
 ```
 ┣ 📂 backend   # Express + MongoDB + JWT Auth
-┣ 📂 frontend  # React + Vite + Tailwind
-┣ 📂 logs      # Debug & cron logs
 ┗ README.md
 ```
 ## 🤝 Contributing
